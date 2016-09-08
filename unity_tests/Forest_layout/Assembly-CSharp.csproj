@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ArrowMove.cs" />
      <Compile Include="Assets\InfiniGRASS\Scripts\ControlCombineChildrenINfiniDyGrass.cs" />
      <Compile Include="Assets\InfiniGRASS\Scripts\GrassChopCollider.cs" />
      <Compile Include="Assets\InfiniGRASS\Scripts\Helper scripts\MouseLookINFINIGRASS.cs" />
@@ -63,6 +64,7 @@
      <Compile Include="Assets\InfiniGRASS\Version 1.5\Scripts_Shaders\Vertex colored\PerlinINFINIGRASS.cs" />
      <Compile Include="Assets\InfiniGRASS\Version 1.5\Scripts_Shaders\Vertex colored\ProceduralNoiseINFINIGRASS.cs" />
      <Compile Include="Assets\InfiniGRASS\Version 1.7\Scripts - Shaders\InfiniGRASS_DemoRealTimev17.cs" />
+     <Compile Include="Assets\MoveCamera.cs" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Transp_Wind_SNOW.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Vertex.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Transp_Wind.shader" />
@@ -86,7 +88,7 @@
      <None Include="Assets\InfiniGRASS\Version 1.5\Scripts_Shaders\Vertex colored\InfiniGRASS_Vertex_Spec_Curved Wind VertColored.shader" />
      <None Include="Assets\InfiniGRASS\Version 1.5\Scripts_Shaders\Mobile shaders\InfiniGRASS_Transp_Wind_SNOW_Mobile.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/myDesignLab/Desktop/HP_unity/Forest_layout/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/myDesignLab/Documents/GitHub/Hospital-Repository/unity_tests/Forest_layout/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
