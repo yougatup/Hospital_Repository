@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/InfiniTREE/InfniTREE Demo.unity
+  isLoaded: 1
+  isActive: 1

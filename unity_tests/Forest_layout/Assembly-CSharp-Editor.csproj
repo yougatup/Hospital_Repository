@@ -47,7 +47,13 @@
   <ItemGroup>
      <Compile Include="Assets\InfiniGRASS\Scripts\Editor\InfiniGRASSManagerEditor.cs" />
      <Compile Include="Assets\InfiniGRASS\Scripts\Editor\ObjExporter.cs" />
+     <Compile Include="Assets\InfiniTREE\Scripts\Editor\SavePrefabINfiniDy.cs" />
+     <Compile Include="Assets\InfiniTREE\Scripts\Editor\Tags.cs" />
+     <Compile Include="Assets\InfiniTREE\Version 1.5\Scripts\Editor\ObjExporter.cs" />
+     <Compile Include="Assets\InfiniTREE\Version 1.5\Scripts\Work in Progress\Editor\SplinePEditorINfiniDy.cs" />
+     <Compile Include="Assets\InfiniTREE\Version 1.5\Scripts\Work in Progress\Editor\TagsInfiniTREE.cs" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Transp_Wind_SNOW.shader" />
+     <None Include="Assets\InfiniTREE\Materials\VegetationWindyINfiniDy.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Vertex.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Transp_Wind.shader" />
      <None Include="Assets\InfiniGRASS\Shader\Toony-Basic 2.shader" />
@@ -56,12 +62,15 @@
      <None Include="Assets\InfiniGRASS\Version 1.1\Shader\InfiniGRASS_Rocks.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Vertex_Spec_Detailed Wind.shader" />
      <None Include="Assets\InfiniGRASS\Shader\Toony-Lighted 2.shader" />
+     <None Include="Assets\InfiniTREE\Version 1.6\WIP DEMOS\Shaders\Grass\TEM GRASS A TRANSP.shader" />
      <None Include="Assets\InfiniGRASS\Version 1.1\Shader\InfiniGRASS_Mushroom.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Vertex_Spec.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Vertex_Spec_UnityGrass.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Vertex_Spec_Detailed.shader" />
+     <None Include="Assets\InfiniTREE\Version 1.6\WIP DEMOS\Shaders\Grass\TEM GRASS B TRANSP.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Transp_Wind_FENCE.shader" />
      <None Include="Assets\InfiniGRASS\Version 1.5\Scripts_Shaders\Interactive grass\Interactive Transparent\InfiniGRASS_Transp_Wind_FENCE 1-ROOF.shader" />
+     <None Include="Assets\InfiniTREE\Version 1.6\WIP DEMOS\Shaders\Grass\TEM GRASS A.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Vertex_Spec_Curved Wind.shader" />
      <None Include="Assets\InfiniGRASS\Shader\Toony-BasicOutline 2.shader" />
      <None Include="Assets\InfiniGRASS\Exported Meshes\Object Export Instructions.txt" />
