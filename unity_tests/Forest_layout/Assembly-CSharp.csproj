@@ -78,7 +78,9 @@
      <Compile Include="Assets\InfiniTREE\Version 1.5\Scripts\Work in Progress\ExtrudeMeshBranchINfiniDy.cs" />
      <Compile Include="Assets\InfiniTREE\Version 1.5\Scripts\Work in Progress\SplineMeshExtrusionINfiniDy.cs" />
      <Compile Include="Assets\InfiniTREE\Version 1.5\Scripts\Work in Progress\SplinerPINfiniDy.cs" />
+     <Compile Include="Assets\Interpolation.cs" />
      <Compile Include="Assets\MoveCamera.cs" />
+     <Compile Include="Assets\NGPath.cs" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Transp_Wind_SNOW.shader" />
      <None Include="Assets\InfiniTREE\Materials\VegetationWindyINfiniDy.shader" />
      <None Include="Assets\InfiniGRASS\Shader\InfiniGRASS_Vertex.shader" />
